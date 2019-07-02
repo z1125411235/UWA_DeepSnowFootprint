@@ -1,0 +1,7 @@
+可開啟版本:Unity 5.5.1f1.以上
+
+UWA網址___https://lab.uwa4d.com/lab/5b66026ed7f10a201ff999c2
+
+本人Github網址___https://github.com/z1125411235/UWA_DeepSnowFootprint
+
+官方Github網址___https://github.com/ZGeng/DeepSnowFootprint
